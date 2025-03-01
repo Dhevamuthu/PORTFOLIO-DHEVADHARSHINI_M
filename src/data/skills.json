@@ -1,0 +1,31 @@
+[
+    {
+        "title": "C",
+        "imageSrc": "c_lang.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "java.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "/node.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "/mongodb.png"
+    }
+    
+  ]

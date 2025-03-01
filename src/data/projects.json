@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Drivemate",
+      "imageSrc": "car-project.jpg",
+      "description": "A platform that connects car owners with professional drivers, ensuring safe and reliable service.",
+      "skills": ["React", "Node.js"],
+      "source": "https://github.com/Dhevamuthu/Drivemate"
+    },
+    {
+      "title": "LifeScan",
+      "imageSrc": "medi_record-project.jpg",
+      "description": "An app providing secure access to medical records and notifying relatives in emergencies for timely medical responses.",
+      "skills": ["MERN", " MFS100"],
+      "source": "https://github.com/Dhevamuthu/EmergencyResponse/tree/master"
+    },
+    {
+      "title": "Medict",
+      "imageSrc": "hos-project.png",
+      "description": "An application designed for efficient hospital appointment scheduling, featuring a seamless booking and management.",
+      "skills": ["JavaFX", "SQL"],
+      "source": "https://github.com/Dhevamuthu/Hospital-Appointment-Scheduler"
+    },
+    {
+      "title": "Quizzy",
+      "imageSrc": "quiz-project.jpg",
+      "description": "An interactive quiz application that offers quizzes across multiple categories featuring timed tests and real-time results.",
+      "skills": ["MERN"],
+      "source": "https://github.com/Dhevamuthu/QuizApp"
+    },    
+    {
+      "title": "Aquisense",
+      "imageSrc": "aqui-project.jpg",
+      "description": "An IoT-powered system for real-time monitoring of aquarium water quality with automated fish feeding functionality.",
+      "skills": ["IoT", "Blynk"],
+      "source": ""
+    },
+    {
+        "title": "Book Recommender",
+        "imageSrc": "book-project.jpg",
+        "description": "An app for exploring books by genres with personalized recommendations and user authentication.",
+        "skills": ["MERN"],
+        "source": "https://github.com/Dhevamuthu/Book_Recommender"
+      }
+  ]
+  

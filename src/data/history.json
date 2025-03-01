@@ -1,0 +1,42 @@
+[
+    {
+      "role": "Open Source Contributor",
+      "organisation": "GSSOC 2024",
+      "startDate": "May 10, 2024",
+      "endDate": "August 10, 2024",
+      "experiences": [
+        "Added features to the project and actively contributed to open source development.",
+        "Utilized React for project development and earned badges for significant contributions."
+      ],
+      "imageSrc": "gssoc-logo.png",
+      "certificateLink": "https://drive.google.com/file/d/1PWhgmFPruf_vQuQIB-9evl8P2ufdAfiX/view?usp=drive_link"
+    },
+    
+    {
+      "role": "MERN Developer",
+      "organisation": "Better Tomorrow",
+      "startDate": "February 26, 2024",
+      "endDate": "March 14, 2024",
+      "experiences": [
+        "Developed a Book Recommendation Application using the MERN stack.",
+        "Implemented user authentication and enhanced application functionality.",
+        "Enabled users to explore books based on various genres, improving user experience."
+      ],
+      "imageSrc": "bt-logo.jpg",
+      "certificateLink": "https://drive.google.com/file/d/1JKssiE64-fZu4164zGswyTZcUXRlAQQC/view?usp=drive_link"
+    },
+    {
+      "role": "Intern",
+      "organisation": "Codsoft",
+      "startDate": "January 5, 2024",
+      "endDate": "February 5, 2024",
+      "experiences": [
+        "Engaged in a web development internship focused on HTML, CSS, and JavaScript.",
+        "Developed web applications and gained hands-on experience in web technologies.",
+        "Learned about the practical utilization of core web development tools and techniques."
+      ],
+      "imageSrc": "/codsoft-logo.jpg",
+      "certificateLink": "https://drive.google.com/file/d/13Gxr2ViaG9qnM7I-y6As0EV72pkBg8HU/view?usp=drive_link"
+    }
+  ]
+  

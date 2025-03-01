@@ -1,0 +1,43 @@
+{
+    "achievements": [
+      {
+        "title": "Paper Publication",
+        "image": "https://www.pngitem.com/pimgs/m/31-313555_research-paper-hd-png-download.png",
+        "description": "Published a research paper titled 'Smart Aquarium and Water Quality Monitoring using IoT' on IEEE Xplore.",
+        "paperLink": "https://ieeexplore.ieee.org/document/10533889",
+        "date": "2024-01-18"
+      },
+        {
+          "title": "Idea-Ignite 2024",
+          "image": "https://img.freepik.com/free-photo/bulb-sign-idea-symbol-word_53876-123840.jpg",
+          "description": "Secured 5th Place in the prestigious Idea Ignite Hackathon 2024 organized by CodeByte. ",
+          "certificateLink": "https://drive.google.com/file/d/1Py-LmMpBXmV_orXxWIzVZIQ0e_attwAT/view?usp=sharing",
+          "date": "2024-01-18"
+        },
+      {
+        "title": "Project Expo Winner 2024",
+        "image": "expo_24.jpg",
+        "certificateLink": "https://drive.google.com/file/d/1Zk1G2VKs55TUWfMHqfXeUXOGwRAEcDZv/view?usp=sharing",
+        "description": "Secured 1st prize for Footstep Power Generation, showcasing renewable energy innovation."
+      },
+      {
+        "title": "Academic Topper",
+        "image": "topper_24.JPG",
+        "certificateLink": "https://drive.google.com/file/d/1NSjgzJVJ4vuK-SYs-Ag6xPPCOQ8ZkelB/view?usp=drive_link",
+        "description": "Awarded 2nd rank in my department, reflecting dedication to academic excellence."
+      },
+      {
+        "title": "INSIGHT'X 2023",
+        "image": "bit_23.jpg",
+        "certificateLink": "https://drive.google.com/file/d/1iA31JzHDCbUaDonBww5lvzWVV7IGWJjy/view?usp=drive_link",
+        "description": "Won 1st prize for Smart Aquarium project in a 24-hour hackathon among 25 teams."
+      },
+      {
+        "title": "Project Expo Winner 2023",
+        "image": "expo_23.jpg",
+        "certificateLink": "https://drive.google.com/file/d/1YvvTOTxoY9UCQ6FkERUsagnGrVaL5sBC/view?usp=drive_link",
+        "description": "Clinched 1st prize for Smart Aquarium IoT project with automated food and water monitoring."
+      }
+    ]
+  }
+  

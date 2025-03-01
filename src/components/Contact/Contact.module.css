@@ -1,0 +1,96 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100vw;
+  padding: 58px 10%;
+  gap: 10px;
+}
+
+.text h2 {
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+
+.text p {
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: 26px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; /* Center-align the text */
+  }
+
+  .text h2 {
+    font-size: 36px; /* Smaller font size for the heading */
+    margin-bottom: 10px;
+  }
+
+  .text p {
+    font-size: 18px; /* Smaller font size for the subheading */
+    margin-bottom: 20px;
+  }
+
+  .links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px; /* Space between each link */
+  }
+
+  .link {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between icon and text */
+  }
+
+  .link img {
+    width: 24px; /* Adjusted size for the icons */
+    height: 24px;
+  }
+
+  .link a {
+    font-size: 16px; /* Smaller font size for links */
+    text-decoration: none;
+    color: var(--color-text);
+  }
+}
